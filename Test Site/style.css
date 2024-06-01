@@ -71,6 +71,8 @@ ul {
     border: 2px dashed black;
 }
 
+
+/* animation for main image */
 @keyframes floatImage {
     0% {
         transform: translateY(0);
